@@ -125,9 +125,11 @@ animals = [camel, lion, deer, goose, bat, rabbit]
 
 # write your code here
 
-number = 1
+print("K A Y A B A   Z O O")
+print("Welcome to the zoo monitoring system !!")
+print("Just enter the number of the habitad you want to check on.")
 
-while number:
+while True:
    print("Index:")
    print("0 - Camel")
    print("1 - Lion")
