@@ -136,7 +136,7 @@ while True:
    print("2 - Deer")
    print("3 - Goose")
    print("4 - Bat")
-   print("1 - Rabbit")
+   print("5 - Rabbit")
    print('To end the programme type "exit" ')
    number = input("Please enter the number of the habitat you would like to view: ")
    if number == "exit":
